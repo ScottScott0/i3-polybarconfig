@@ -1,2 +1,2 @@
 # i3-polybarconfig
-a mess
+this is set in ~/
